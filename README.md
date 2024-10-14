@@ -1,2 +1,2 @@
-# ANN
-2024 fall
+# ANN 2024
+Slightly modified the original code.
